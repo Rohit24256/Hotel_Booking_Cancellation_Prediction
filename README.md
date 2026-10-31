@@ -9,17 +9,16 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## 📁 Project Structure
 
-| File | Description |
-| `data_cleaning.py` | Step 1: removes duplicates and handles missing values |
-| `EDA.py` | Step 2: exploratory data analysis and charts |
-| `feature_selection.py` | Step 3: correlation analysis and Random Forest feature importance |
-| `model_training.py` | Step 4: trains 4 models and prints accuracy |
-| `model_comparison.py` | Step 5: compares models (accuracy, precision, recall, F1) |
-| `hotel_bookings.csv` | Raw dataset (119,390 rows) |
-| `hotel_bookings_cleaned.csv` | Output of `data_cleaning.py` (87,396 rows) |
-| `selected_features_dataset.csv` | Output of `feature_selection.py` (top 10 features + target) |
-| `images/` | Charts used in this README |
-| `requirements.txt` | Python libraries needed to run the project |
+- `data_cleaning.py` : Step 1: removes duplicates and handles missing values
+- `EDA.py` : Step 2: exploratory data analysis and charts
+- `feature_selection.py` : Step 3: correlation analysis and Random Forest feature importance
+- `model_training.py` : Step 4: trains 4 models and prints accuracy
+- `model_comparison.py` : Step 5: compares models (accuracy, precision, recall, F1)
+- `hotel_bookings.csv` : Raw dataset (119,390 rows)
+- `hotel_bookings_cleaned.csv` : Output of `data_cleaning.py` (87,396 rows)
+- `selected_features_dataset.csv` : Output of `feature_selection.py` (top 10 features + target)
+- `images/` : Charts used in this README
+- `requirements.txt` : Python libraries needed to run the project
 
 ## 🔄 Project Workflow
 1. **Data cleaning:** removed 31,994 duplicates; filled missing values in `children`, `country`, `agent`, `company`
