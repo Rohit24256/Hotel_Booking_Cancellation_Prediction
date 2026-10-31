@@ -65,6 +65,7 @@ python model_training.py
 python model_comparison.py
 
 Run the scripts in this order. Each script reads the CSV produced by the previous one, which are already included, so you can also run any script on its own. Charts open one after another; close each window to continue.
+'''
 
 ## 🚀 Future Improvements
 - Hyperparameter tuning (GridSearchCV)
