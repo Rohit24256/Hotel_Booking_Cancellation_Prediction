@@ -46,7 +46,7 @@ Random Forest performed best overall.
 
 ## 📊 Visuals
 ## 📊 Visuals
-![Cancellation distribution](images/Figure_1.png)
+![Cancellation distribution](Figure_1.png)
 ![Monthly bookings](images/Figure_3.png)
 ![Customer type and lead time vs cancellation](images/Figure_5.png)
 ![Top 10 important features](images/Figure_8_.png)
