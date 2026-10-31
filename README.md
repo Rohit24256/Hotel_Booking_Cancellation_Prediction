@@ -45,12 +45,12 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Random Forest performed best overall.
 
 ## 📊 Visuals
-![Cancellation rate](images/02_cancellation_rate.png)
-![Monthly seasonality](images/03_monthly_seasonality.png)
-![Lead time](images/04_lead_time.png)
-![Risk segments](images/05_risk_segments.png)
-![Feature importance](images/06_feature_importance.png)
-![Model comparison](images/07_model_comparison.png)
+## 📊 Visuals
+![Cancellation distribution](images/Figure_1.png)
+![Monthly bookings](images/Figure_3.png)
+![Customer type and lead time vs cancellation](images/Figure_5.png)
+![Top 10 important features](images/Figure_8_.png)
+![Model comparison](images/Figure_9.png)
 
 ## ▶️ How to Run
 ```bash
