@@ -45,11 +45,10 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Random Forest performed best overall.
 
 ## 📊 Visuals
-## 📊 Visuals
 ![Cancellation distribution](Figure_1.png)
 ![Monthly bookings](Figure_3.png)
 ![Customer type and lead time vs cancellation](Figure_5.png)
-![Top 10 important features](Figure_8_.png)
+![Top 10 important features](Figure_8.png)
 ![Model comparison](Figure_9.png)
 
 ## ▶️ How to Run
@@ -65,7 +64,7 @@ python model_training.py
 python model_comparison.py
 
 Run the scripts in this order. Each script reads the CSV produced by the previous one, which are already included, so you can also run any script on its own. Charts open one after another; close each window to continue.
-'''
+```
 
 ## 🚀 Future Improvements
 - Hyperparameter tuning (GridSearchCV)
