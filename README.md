@@ -73,4 +73,4 @@ Run the scripts in this order. Each script reads the CSV produced by the previou
 - Try XGBoost / handle class imbalance
 
 ## 👤 Author
-**<Rohit>** | [LinkedIn](<your-linkedin-url>)
+**Rohit** | [LinkedIn]()
